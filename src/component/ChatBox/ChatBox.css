@@ -1,0 +1,17 @@
+.ChatBox {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.ChatBox input {
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  width: 90%;
+}
